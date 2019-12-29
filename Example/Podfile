@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MZNetwork_Example' do
+  pod 'MZNetwork', :path => '../'
+
+  target 'MZNetwork_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

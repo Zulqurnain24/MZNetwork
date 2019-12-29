@@ -1,0 +1,16 @@
+PODS:
+  - MZNetwork (0.1.0)
+
+DEPENDENCIES:
+  - MZNetwork (from `../`)
+
+EXTERNAL SOURCES:
+  MZNetwork:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MZNetwork: 8da2c7b0d3d0c1fc23b22638bccf060d2f75a92b
+
+PODFILE CHECKSUM: d7ad5154d6c0a3de0444b8fe7dd6a4e27a5ea853
+
+COCOAPODS: 1.8.3

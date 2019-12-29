@@ -1,0 +1,6 @@
+framework module MZNetwork {
+  umbrella header "MZNetwork-umbrella.h"
+
+  export *
+  module * { export * }
+}
